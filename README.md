@@ -3,7 +3,8 @@
 ````
 usage: tokenizer.py [-h] -i INPUTFILE [-a ACRFILE]
 
-This script will tokenize input file sentence wise How to Run? python3 tokenizer.py -i=in.txt-acr=tam.txt
+This script will tokenize input file sentence wise How to Run?
+python3 tokenizer.py -i=in.txt-acr=tam.txt
 
 options:
   -h, --help            show this help message and exit
